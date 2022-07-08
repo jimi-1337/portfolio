@@ -133,7 +133,7 @@
                 {
                     "id": 3,
                     "title": "Web Development",
-                    "description": "MERN fullstack: I use Node and Express for the backend, Reactjs for the frontend and Mongodb as a DB.",
+                    "description": "MERN fullstack: I use NestJs for the backend, Reactjs for the frontend and Mongodb as a DB.",
                     "icon": "MousePointer",
                     "path": "https://github.com/jimi-1337/"
                 }
