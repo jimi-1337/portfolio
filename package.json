@@ -18,7 +18,6 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy1": "gatsby build && gh-pages -d build",
     "build:prefix": "gatsby build --prefix-paths",
     "serve:prefix": "gatsby serve --prefix-paths",
     "format": "prettier --write \"**/*.{js,jsx,,json,md}\"",
