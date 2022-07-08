@@ -1,0 +1,18 @@
+{
+    "id": "header-data-1",
+    "section": "header-1",
+    "button": {
+        "id": 1,
+        "content": "HIRE ME NOW",
+        "path": "#contacts"
+    },
+    "logo": [
+        {
+            "src": "../images/logo/Jimi1337.png"
+        },
+        {
+            "src": "../images/logo/Jimi1337.png"
+        }
+    ],
+    "slogan": "Personal portfolio"
+}

@@ -1,0 +1,10 @@
+{
+    "id": "footer-data-1",
+    "section": "footer-1",
+    "copyright_text": " All rights reserved by <a href='https://github.com/jimi-1337/jimi-portfolio'>Jimi1337</a>",
+    "logo": [
+        {
+            "src": "../images/logo/Jimi1337.png"
+        }
+    ]
+}

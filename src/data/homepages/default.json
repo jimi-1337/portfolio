@@ -1,0 +1,1613 @@
+{
+    "title": "default-home",
+    "content": [
+        {
+            "id": "default-home-hero",
+            "section": "hero-section",
+            "headings": [
+                {
+                    "content": "WELCOME TO MY WORLD"
+                },
+                {
+                    "content": "Hi, I’m <span>Moujane Ayoub</span>"
+                }
+            ],
+            "animated_texts": [
+                "Full Stack Developer.",
+                "Programmer.",
+                "Professional Coder.",
+                "Tester."
+            ],
+            "texts": [
+                {
+                    "content": "Talented and experienced full stack developer with 3+ years of experience executing with a plethora of diverse skills. Experience has taught me to take accessibility and responsiveness seriously, Based in Casablanca, Morocco. Clean code is my motto."
+                }
+            ],
+            "skills": [
+                {
+                    "id": 1,
+                    "title": "Python programmer",
+                    "image": {
+                        "src": "../images/icons/icons-08.png",
+                        "alt": "Python Icon"
+                    }
+                },
+                {
+                    "id": 2,
+                    "title": "php",
+                    "image": {
+                        "src": "../images/icons/php-icon.png",
+                        "alt": "php icon"
+                    }
+                },
+                {
+                    "id": 3,
+                    "title": "C/C++ programmer",
+                    "image": {
+                        "src": "../images/icons/c.png",
+                        "alt": "C Icon"
+                    }
+                },
+                {
+                    "id": 4,
+                    "title": "Postgresql developer",
+                    "image": {
+                        "src": "../images/icons/Postgresql.png",
+                        "alt": "Postgresql icon"
+                    }
+                },
+                {
+                    "id": 5,
+                    "title": "React Developer",
+                    "image": {
+                        "src": "../images/icons/icons-16.png",
+                        "alt": "React Icon"
+                    }
+                },
+                {
+                    "id": 6,
+                    "title": "Nodejs developer",
+                    "image": {
+                        "src": "../images/icons/nodejs.png",
+                        "alt": "Nodejs Icon"
+                    }
+                },
+                {
+                    "id": 6,
+                    "title": "Docker",
+                    "image": {
+                        "src": "../images/icons/docker.png",
+                        "alt": "Docker Icon"
+                    }
+                },
+                {
+                    "id": 6,
+                    "title": "Docker Compose",
+                    "image": {
+                        "src": "../images/icons/docker-compose.jpg",
+                        "alt": "Docker Compose Icon"
+                    }
+                },
+                {
+                    "id": 6,
+                    "title": "Kubernetes",
+                    "image": {
+                        "src": "../images/icons/kube.jpg",
+                        "alt": "Kubernetes Icon"
+                    }
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/slider/Jimmy.png",
+                    "alt": "Personal Portfolio Images"
+                },
+                {
+                    "src": "../images/slider/Jimmy.png",
+                    "alt": "Personal Portfolio Images"
+                }
+            ]
+        },
+        {
+            "id": "default-home-services",
+            "section": "service-section",
+            "section_title": {
+                "title": "What I Do",
+                "subtitle": "Services"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "DevOps",
+                    "description": "System Administration and Networking, setting up an infrastructure of different service using Kubernetes, setting up a multi-service cluster, Each service is running in a dedicated container, the running services like: WordPress, phpMyAdmin, nginx, FTPS, Grafana, InfluxDB, Mysql.",
+                    "icon": "Server",
+                    "path": "https://github.com/humdrumdev/"
+                },
+                {
+                    "id": 2,
+                    "title": "C/C++ and low-level programming",
+                    "description": "C/C++ is my goto language when I want to build robust and highly performant systems. With a really good background in C and C++, I can help you build your new Os, Browser, DB or Game.",
+                    "icon": "Cpu",
+                    "path": "https://github.com/humdrumdev/"
+                },
+                {
+                    "id": 3,
+                    "title": "Web Development",
+                    "description": "MERN fullstack: I use Node and Express for the backend, Reactjs for the frontend and Mongodb as a DB.",
+                    "icon": "MousePointer",
+                    "path": "https://github.com/humdrumdev/"
+                }
+            ]
+        },
+        {
+            "id": "default-home-portfolio",
+            "section": "portfolio-section",
+            "section_title": {
+                "title": "Some of my projects",
+                "subtitle": "Visit my portfolio and leave your feedback"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Transcendence",
+                    "category": "Web development",
+                    "texts": [
+                        {
+                            "content": "A game of ping pong with ReactJS and NestJS."
+                        },
+                        {
+                            "content": "I built a full Stack multiplayer live game(pong) website - with live chat and user status (online/offline/ingame), options to create channels, add friends, block users, send game requests, random game pairing, 2-Step Verification, OAuth system Register/Login."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/Transcendence.png"
+                        }
+                    ],
+                    "path": "https://github.com/jimi-1337/Final_Transcendence",
+                    "likeCount": 15
+                },
+                {
+                    "id": 2,
+                    "title": "HTTP WebServer",
+                    "category": "Software development with C++",
+                    "texts": [
+                        {
+                            "content": "A fully running HTTP/1.1 WebServer from scratch."
+                        },
+                        {
+                            "content": "Handling the main HTTP requests type (GET - POST - PUT - DELETE - TRACE - OPTIONS) and running custom CGI passed in the config file(PHP/Python...), This was a group project (two participants)."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/http.png"
+                        }
+                    ],
+                    "path": "https://github.com/jimi-1337/WebServ",
+                    "likeCount": 16
+                },
+                {
+                    "id": 3,
+                    "title": "C++ Containers",
+                    "category": "Software development with C++",
+                    "texts": [
+                        {
+                            "content": "Re-implementing the various container types."
+                        },
+                        {
+                            "content": "In this project, I re-implemented the various container types of the C++ standard template library, the re-implemented containers: Vector, List, Map, Multimap, Queue, Deque."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/containers.jpeg"
+                        }
+                    ],
+                    "path": "https://github.com/jimi-1337/ft_containers",
+                    "likeCount": 37
+                },
+                {
+                    "id": 4,
+                    "title": "FT Services",
+                    "category": "Devops",
+                    "texts": [
+                        {
+                            "content": "This is a System Administration and Networking project."
+                        },
+                        {
+                            "content": "This is a System Administration and Networking project, this project consists of setting up an infrastructure of different service using Kubernetes, setting up a multi-service cluster, Each service is running in a dedicated container, the running services are: WordPress, phpMyAdmin, nginx, FTPS, Grafana, InfluxDB, Mysql"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/ft_services.png"
+                        }
+                    ],
+                    "path": "https://github.com/jimi-1337/ft_services",
+                    "likeCount": 29
+                },
+                {
+                    "id": 5,
+                    "title": "Minishell",
+                    "category": "Software development whit C.",
+                    "texts": [
+                        {
+                            "content": "Creating a shell with insperation from Zsh and Bash."
+                        },
+                        {
+                            "content": "I created a shell with insperation from Zsh and Bash, with the following built-in commands: echo - cd - pwd - export - unset - env - exit, and all the other commands are running with execve."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/bash.png"
+                        }
+                    ],
+                    "path": "https://github.com/jimi-1337/minishell",
+                    "likeCount": 38
+                },
+                {
+                    "id": 6,
+                    "title": "Cube3D",
+                    "category": "Graphics with C language",
+                    "texts": [
+                        {
+                            "content": "project is inspired by the world-famous eponymous 90's game."
+                        },
+                        {
+                            "content": "This project is inspired by the world-famous eponymous 90's game, which was the first FPS ever. We explored ray-casting. Our goal was to make a dynamic 3D view inside a maze (using C language), in which we ll have to find our way."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/Cub3D.jpeg"
+                        }
+                    ],
+                    "path": "https://github.com/jimi-1337/Cub3D",
+                    "likeCount": 51
+                },
+                {
+                    "id": 7,
+                    "title": "Dining Philosophers",
+                    "category": "Graphics with C language",
+                    "texts": [
+                        {
+                            "content": "Solving the dining Philosophers dilemma, using threads in c."
+                        },
+                        {
+                            "content": ""
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/dining-philosophers.jpeg"
+                        }
+                    ],
+                    "path": "https://github.com/jimi-1337/philosophers",
+                    "likeCount": 40
+                }
+            ]
+        },
+        {
+            "id": "default-home-resume",
+            "section": "resume-section",
+            "section_title": {
+                "title": "My Resume",
+                "subtitle": "3+ Years of Experience"
+            }
+        },
+        {
+            "id": "default-home-education",
+            "section": "education-section",
+            "title": "Education",
+            "inner": [
+                {
+                    "id": "education-section-left",
+                    "section_title": {
+                        "title": "My Education",
+                        "subtitle": "2015 - Now"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Software Architect",
+                            "subtitle": "Ecole 1337 - 42Network (2019 - now)",
+                            "rating": "3 years",
+                            "description": "Currently studying at 1337, a school which is fully oriented to the IT and CS world. It is part of the 42 Network and it has a really good training and different computer science paths."
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bachelor in applied math",
+                            "subtitle": "University Sultan Moulay Sliman Beni Mellal (FP) (2017 - 2019)",
+                            "rating": "3 years",
+                            "description": "Good knowledge in mathematics science, IT and business who can occupy multiple roles within a company."
+                        }
+                    ]
+                },
+                {
+                    "id": "education-section-right",
+                    "section_title": {
+                        "title": "",
+                        "subtitle": ""
+                    },
+                    "items": [
+                        {
+                            "id": 3,
+                            "title": "Huawei online school 2020",
+                            "subtitle": "",
+                            "rating": "",
+                            "description": "Huawei Certification AI."
+                        },
+                        {
+                            "id": 4,
+                            "title": "Highschool diploma",
+                            "subtitle": "Mohammed V highschool - Beni-Mellal (2014 - 2016)",
+                            "rating": "3 years",
+                            "description": "I got my highschool diploma in mathematics branche (sciences maths B)."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "default-home-skill",
+            "section": "skill-section",
+            "title": "Skills",
+            "inner": [
+                {
+                    "id": "default-home-skill-left",
+                    "section_title": {
+                        "title": "Tech Skills",
+                        "subtitle": "Aquired"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "C - C++",
+                            "value": 85
+                        },
+                        {
+                            "id": 2,
+                            "title": "Python",
+                            "value": 60
+                        },
+                        {
+                            "id": 3,
+                            "title": "Docker",
+                            "value": 80
+                        },
+                        {
+                            "id": 4,
+                            "title": "Ts - Js - React - Node",
+                            "value": 75
+                        },
+                        {
+                            "id": 5,
+                            "title": "Linux - Git - Deployment",
+                            "value": 90
+                        },
+                        {
+                            "id": 6,
+                            "title": "Docker-Compose",
+                            "value": 90
+                        },
+                        {
+                            "id": 5,
+                            "title": "Nestjs",
+                            "value": 80
+                        }
+                    ]
+                },
+                {
+                    "id": "default-home-skill-right",
+                    "section_title": {
+                        "title": "Curently Learning",
+                        "subtitle": "Learning"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Machine Learning",
+                            "value": 25
+                        },
+                        {
+                            "id": 2,
+                            "title": "AWS",
+                            "value": 20
+                        },
+                        {
+                            "id": 3,
+                            "title": "Advanced Typescript",
+                            "value": 70
+                        },
+                        {
+                            "id": 4,
+                            "title": "AngularJS",
+                            "value": 40
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "default-home-experience",
+            "section": "experience-section",
+            "title": "experience",
+            "inner": [
+                {
+                    "id": "default-home-experience-left",
+                    "section_title": {
+                        "title": "Professional Experience",
+                        "subtitle": "2021 - Now"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Full Stack Developer",
+                            "subtitle": "ITSS",
+                            "rating": "5 months",
+                            "description": "Creating a website of matching students and teachers, working on the backend and the frontend."
+                        },
+                        {
+                            "id": 2,
+                            "title": "Full Stack Developer",
+                            "subtitle": "ITSS",
+                            "rating": "5 months",
+                            "description": "building an internal website for a big company so they can digitalize the whole process of work with permissions with Drupal."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Full Stack Developer",
+                            "subtitle": "ITSS",
+                            "rating": "2 months",
+                            "description": "Helping in updating a web site for medical monitoring to the French government."
+                        }
+                    ]
+                },
+                {
+                    "id": "default-home-section-right",
+                    "section_title": {
+                        "title": "Freelance",
+                        "subtitle": "2019 - Now"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Building Websigtes For Markets",
+                            "subtitle": "",
+                            "rating": "",
+                            "description": "It doesn’t matter how well you actually manage your brand image, or implement social media marketing campaigns. If you can’t show it off well enough, so i was creating somw websites for small local brands."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "default-home-interview",
+            "section": "interview-section",
+            "title": "languages and hobbies",
+            "inner": [
+                {
+                    "id": "default-home-experience-left",
+                    "section_title": {
+                        "title": "Languages",
+                        "subtitle": ""
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Arabic, English and French",
+                            "subtitle": "advanced",
+                            "rating": "trilingual",
+                            "description": "Arabic is my native language. I use English and French fluently."
+                        }
+                    ]
+                },
+                {
+                    "id": "default-home-section-right",
+                    "section_title": {
+                        "title": "Hobbies",
+                        "subtitle": ""
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Philosophy, psychoanalysis and Cinema",
+                            "subtitle": "Nerd",
+                            "rating": "❤️",
+                            "description": "I love reading Philosophy and psychoanalysis books, I like writing philosophical essays and aphorisms and I love Cinema, especially Drama, Thriller and Mystery."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "default-home-testimonial",
+            "section": "testimonial-section",
+            "section_title": {
+                "title": "Testimonial",
+                "subtitle": "What Clients Say"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Saad Alaoui",
+                    "subtitle": "Koios",
+                    "designation": "Chief Executive Officer",
+                    "projectTitle": "Fink annuaire",
+                    "projectMeta": "via Upwork - Mar 4, 2015 - Aug 30, 2021",
+                    "rating": "5",
+                    "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris .",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/final-home--1st.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Jone Duone Joe",
+                    "subtitle": "Bound - Trolola",
+                    "designation": "Operating Officer",
+                    "projectTitle": "Web App Development",
+                    "projectMeta": "Upwork - Mar 4, 2016 - Aug 30, 2021",
+                    "rating": "4",
+                    "description": "Important fact to nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris.",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/final-home--2nd.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Nevine Dhawan",
+                    "subtitle": "Glassfisom",
+                    "designation": "CEO Of Officer",
+                    "projectTitle": "Android App Design",
+                    "projectMeta": "Fiver - Mar 4, 2015 - Aug 30, 2021",
+                    "rating": "5",
+                    "description": "No more question for design. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris .",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/final-home--3rd.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "default-home-clients",
+            "section": "client-section",
+            "section_title": {
+                "title": "Awesome Clients",
+                "subtitle": "Popular Clients"
+            },
+            "inner": [
+                {
+                    "id": "clinet-js",
+                    "inner_title": "JavaScript",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Smiths Marth",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Add Dev",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client4.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "title": "Adon Smith",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "title": "Smitha Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "title": "Sultana Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "title": "Jannat",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "title": "Mila Dus",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 11,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 12,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "clinet-design",
+                    "inner_title": "Product Design",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Smiths Marth",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Add Dev",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client4.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "title": "Adon Smith",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "title": "Smitha Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "title": "Sultana Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "title": "Jannat",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "title": "Mila Dus",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 11,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 12,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "clinet-wp",
+                    "inner_title": "Wordpress",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Smiths Marth",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Add Dev",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client4.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "title": "Adon Smith",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "title": "Smitha Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "title": "Sultana Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "title": "Jannat",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "title": "Mila Dus",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 11,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 12,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "clinet-to-react",
+                    "inner_title": "HTML to React",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Smiths Marth",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Add Dev",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client4.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "title": "Adon Smith",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "title": "Smitha Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "title": "Sultana Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "title": "Jannat",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "title": "Mila Dus",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 11,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 12,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "clinet-to-laravel",
+                    "inner_title": "React To Laravel",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Smiths Marth",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Add Dev",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client4.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "title": "Adon Smith",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "title": "Smitha Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "title": "Sultana Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "title": "Jannat",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "title": "Mila Dus",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 11,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 12,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "clinet-python",
+                    "inner_title": "Python",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Smiths Marth",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Add Dev",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client4.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "title": "Adon Smith",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "title": "Smitha Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "title": "Sultana Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "title": "Jannat",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "title": "Mila Dus",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 11,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 12,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "default-home-pricing",
+            "section": "pricing-section",
+            "section_title": {
+                "title": "My Pricing",
+                "subtitle": "Pricing"
+            },
+            "inner": [
+                {
+                    "id": "pricing-static",
+                    "inner_title": "Basic",
+                    "title": "Make Your Single Page",
+                    "subtitle": "Elementor",
+                    "is_featured": false,
+                    "price": "$30.00",
+                    "description": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "1 Page with Elementor",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "Design Customization",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "Responsive Design",
+                            "available": true
+                        },
+                        {
+                            "id": 4,
+                            "title": "Content Upload",
+                            "available": true
+                        },
+                        {
+                            "id": 5,
+                            "title": "Design Customization",
+                            "available": true
+                        },
+                        {
+                            "id": 6,
+                            "title": "2 Plugins/Extensions",
+                            "available": true
+                        },
+                        {
+                            "id": 7,
+                            "title": "multipage Elementor",
+                            "available": true
+                        },
+                        {
+                            "id": 8,
+                            "title": "Design Figma",
+                            "available": true
+                        },
+                        {
+                            "id": 9,
+                            "title": "MAintaine Design",
+                            "available": true
+                        },
+                        {
+                            "id": 10,
+                            "title": "Content Upload",
+                            "available": true
+                        },
+                        {
+                            "id": 11,
+                            "title": "Design With XD",
+                            "available": false
+                        },
+                        {
+                            "id": 12,
+                            "title": "8 Plugins/Extensions",
+                            "available": true
+                        }
+                    ],
+                    "orderLink": "#!",
+                    "deliveryTime": 2,
+                    "revission": "Unlimited"
+                },
+                {
+                    "id": "pricing-standard",
+                    "inner_title": "Standard",
+                    "title": "Design Make this Page",
+                    "subtitle": "Elementor",
+                    "is_featured": true,
+                    "price": "$50.00",
+                    "description": "Making this the first true generator on the Internet. It uses a dictionary & plugin Development.",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "1 Page with Elementor",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "Design Customization",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "Responsive Design",
+                            "available": true
+                        },
+                        {
+                            "id": 4,
+                            "title": "Content Upload",
+                            "available": true
+                        },
+                        {
+                            "id": 5,
+                            "title": "Design Customization",
+                            "available": true
+                        },
+                        {
+                            "id": 6,
+                            "title": "2 Plugins/Extensions",
+                            "available": true
+                        },
+                        {
+                            "id": 7,
+                            "title": "multipage Elementor",
+                            "available": true
+                        },
+                        {
+                            "id": 8,
+                            "title": "Design Figma",
+                            "available": true
+                        },
+                        {
+                            "id": 9,
+                            "title": "MAintaine Design",
+                            "available": true
+                        },
+                        {
+                            "id": 10,
+                            "title": "Content Upload",
+                            "available": true
+                        },
+                        {
+                            "id": 11,
+                            "title": "Design With XD",
+                            "available": false
+                        },
+                        {
+                            "id": 12,
+                            "title": "8 Plugins/Extensions",
+                            "available": true
+                        }
+                    ],
+                    "orderLink": "#!",
+                    "deliveryTime": 2,
+                    "revission": "Unlimited"
+                },
+                {
+                    "id": "pricing-premium",
+                    "inner_title": "Premium",
+                    "title": "Customize Your Single Page",
+                    "subtitle": "Elementor",
+                    "is_featured": false,
+                    "price": "$90.00",
+                    "description": "I will install your desire theme and made like Theme demo and customize your single page( homepage)",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "1 Page with Elementor",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "Design Customization",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "Responsive Design",
+                            "available": true
+                        },
+                        {
+                            "id": 4,
+                            "title": "Content Upload",
+                            "available": true
+                        },
+                        {
+                            "id": 5,
+                            "title": "Design Customization",
+                            "available": true
+                        },
+                        {
+                            "id": 6,
+                            "title": "2 Plugins/Extensions",
+                            "available": true
+                        },
+                        {
+                            "id": 7,
+                            "title": "multipage Elementor",
+                            "available": true
+                        },
+                        {
+                            "id": 8,
+                            "title": "Design Figma",
+                            "available": true
+                        },
+                        {
+                            "id": 9,
+                            "title": "MAintaine Design",
+                            "available": true
+                        },
+                        {
+                            "id": 10,
+                            "title": "Content Upload",
+                            "available": true
+                        },
+                        {
+                            "id": 11,
+                            "title": "Design With XD",
+                            "available": false
+                        },
+                        {
+                            "id": 12,
+                            "title": "8 Plugins/Extensions",
+                            "available": true
+                        }
+                    ],
+                    "orderLink": "#!",
+                    "deliveryTime": 2,
+                    "revission": "Unlimited"
+                }
+            ]
+        },
+        {
+            "id": "default-home-blog",
+            "section": "blog-section",
+            "section_title": {
+                "title": "My Blog",
+                "subtitle": "Visit my blog and leave your feedback"
+            }
+        },
+        {
+            "id": "default-home-contact",
+            "section": "contact-section",
+            "section_title": {
+                "title": "Contact Me",
+                "subtitle": "Contact"
+            },
+            "images": [
+                {
+                    "src": "../images/contact/jimmyDesktop.jpg"
+                }
+            ],
+            "headings": [
+                {
+                    "content": "Ayoub Moujane"
+                },
+                {
+                    "content": "Full Stack Developer"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "I am available for freelance work, part-time and remote jobs."
+                }
+            ]
+        }
+    ]
+}
