@@ -121,21 +121,21 @@
                     "title": "DevOps",
                     "description": "System Administration and Networking, setting up an infrastructure of different service using Kubernetes, setting up a multi-service cluster, Each service is running in a dedicated container, the running services like: WordPress, phpMyAdmin, nginx, FTPS, Grafana, InfluxDB, Mysql.",
                     "icon": "Server",
-                    "path": "https://github.com/humdrumdev/"
+                    "path": "https://github.com/jimi-1337/"
                 },
                 {
                     "id": 2,
                     "title": "C/C++ and low-level programming",
                     "description": "C/C++ is my goto language when I want to build robust and highly performant systems. With a really good background in C and C++, I can help you build your new Os, Browser, DB or Game.",
                     "icon": "Cpu",
-                    "path": "https://github.com/humdrumdev/"
+                    "path": "https://github.com/jimi-1337/"
                 },
                 {
                     "id": 3,
                     "title": "Web Development",
                     "description": "MERN fullstack: I use Node and Express for the backend, Reactjs for the frontend and Mongodb as a DB.",
                     "icon": "MousePointer",
-                    "path": "https://github.com/humdrumdev/"
+                    "path": "https://github.com/jimi-1337/"
                 }
             ]
         },
